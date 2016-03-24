@@ -1,0 +1,10 @@
+{
+  "name": "sum",
+  "private": true,
+  "fluct": {
+    "contentType": "application/json",
+    "httpMethod": "GET",
+    "path": "/sum",
+    "statusCode": 200
+  }
+}

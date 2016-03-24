@@ -1,0 +1,9 @@
+{
+  "name": "acme-scottie",
+  "private": true,
+  "fluct": {
+    "accountId": "my_account_id", // 0123456789
+    "restapiId": null,
+    "roleName": "my_iam_role_name", // lambda_basic_execution
+  }
+}
